@@ -1,7 +1,5 @@
 # devGRNDB
 
-![Figure 1]("Figure 1.tif")
-
 ## Step 1 - data preprocessing
 
 * 1.1 -  `preprocess.py` 
