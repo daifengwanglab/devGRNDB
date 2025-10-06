@@ -1,5 +1,7 @@
 # devGRNDB
 
+![Figure1](Figure1.png)
+
 ## Step 1 - data preprocessing
 
 * 1.1 -  `preprocess.py` 
