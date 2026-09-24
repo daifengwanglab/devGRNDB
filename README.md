@@ -38,4 +38,10 @@
 	this will calculate the AUCell enrichment scores (i.e., subnetwork activity scores) for inferred subnetworks in step 3b
   
 * 4.2 `calcMoran.R`
-	this will calculate dynamic scores using inferred pseudotimes and activity scores. It contains 2 executable functions getMoran() and readAndProcessMoran(). getMoran will perform the Moran's I calculations and write the relevant results to an user-specified folder. readAndProcessMoran() function will read the corresponding results file and perform necessary filtering for downstream analysis.  
+	this will calculate dynamic scores using inferred pseudotimes and activity scores. It contains 2 executable functions getMoran() and readAndProcessMoran(). getMoran will perform the Moran's I calculations and write the relevant results to an user-specified folder. readAndProcessMoran() function will read the corresponding results file and perform necessary filtering for downstream analysis.
+
+
+## License
+
+This project is licensed under the Apache License, Version 2.0.
+See the [LICENSE](LICENSE) file for details.
